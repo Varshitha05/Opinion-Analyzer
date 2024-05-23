@@ -13,7 +13,7 @@ import csv
 from googleapiclient.discovery import build
 
 # Replace the following values with your API key and the video ID
-api_key = 'AIzaSyAuf68CwBS4eiMwnJhX_KqB46-2CNXQaQs'
+api_key = '***********'
 video_id = 'lnS6v5frTx9A'
 
 youtube = build('youtube', 'v3', developerKey=api_key)
